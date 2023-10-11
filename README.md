@@ -25,5 +25,5 @@ This lab involves deploying a Node.js server to AWS EC2 using Elastic Beanstalk.
 
 ## Documentation
 
-[GUI](cloud-server.us-west-2.elasticbeanstalk.com)
-[CLI](http://cloud-server-cli-env.eba-paekmgse.us-west-2.elasticbeanstalk.com/)
+[GUI](http://cloud-server.us-west-2.elasticbeanstalk.com/)
+[CLI](http://cloud-server-cli-env.eba-qubcyz6a.us-west-2.elasticbeanstalk.com/)
